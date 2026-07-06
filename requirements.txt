@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+diffusers
+open3d
+pymeshlab
+trimesh
+reportlab
+qrcode
+fastapi
+uvicorn
+datasets
