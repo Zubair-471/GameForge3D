@@ -1,0 +1,426 @@
+prompt,label
+a sharp iron sword,Weapon
+a wooden bow with a string,Weapon
+a futuristic laser rifle,Weapon
+a medieval battle axe,Weapon
+a golden dagger with gems,Weapon
+a steel shield with a crest,Weapon
+a crossbow with arrows,Weapon
+a flaming spear,Weapon
+a magic wand with glowing tip,Weapon
+a katana with a black handle,Weapon
+a double-bladed lightsaber,Weapon
+a bronze mace with spikes,Weapon
+a throwing star made of steel,Weapon
+a wooden club covered in nails,Weapon
+a long hunting knife,Weapon
+a poison-tipped arrow,Weapon
+a war hammer with runes,Weapon
+a recurve bow made of bone,Weapon
+a revolver with an ivory handle,Weapon
+a shotgun with a wooden stock,Weapon
+a plasma cannon,Weapon
+a chain whip with a spiked end,Weapon
+a flintlock pistol,Weapon
+a halberd with a crescent blade,Weapon
+a trident made of coral,Weapon
+a rapier with a golden guard,Weapon
+a sniper rifle with a scope,Weapon
+a grenade with a pull ring,Weapon
+a serrated hunting knife,Weapon
+a magical staff with an orb,Weapon
+a frost axe dripping with ice,Weapon
+a lightning bolt javelin,Weapon
+a siege crossbow on a mount,Weapon
+a blowgun with darts,Weapon
+a curved scimitar with etchings,Weapon
+a nunchaku with chain links,Weapon
+a bayonet attached to a rifle,Weapon
+a boomerang with sharp edges,Weapon
+a battle whip made of leather,Weapon
+a morning star flail,Weapon
+a repeating pistol crossbow,Weapon
+a dragon bone sword,Weapon
+a throwing knife set in a pouch,Weapon
+a claymore broadsword,Weapon
+a energy shield projector,Weapon
+a tesla coil gun,Weapon
+a chakram throwing disc,Weapon
+a glass cannon that fires shards,Weapon
+a crystal dagger glowing blue,Weapon
+a bola weapon with stone balls,Weapon
+a racing car with aerodynamic wings,Vehicle
+a futuristic hover bike,Vehicle
+a military tank with heavy armor,Vehicle
+a wooden sailing ship,Vehicle
+a steam-powered locomotive,Vehicle
+a small submarine with a periscope,Vehicle
+a fighter jet with missiles,Vehicle
+a pickup truck with off-road tires,Vehicle
+a horse-drawn carriage,Vehicle
+a space shuttle with boosters,Vehicle
+a motorbike with leather saddlebags,Vehicle
+a hot air balloon with a basket,Vehicle
+a viking longship with a dragon head,Vehicle
+a helicopter with twin rotors,Vehicle
+a police car with a siren on top,Vehicle
+a rowboat with oars,Vehicle
+a futuristic flying saucer,Vehicle
+a blimp with a passenger cabin,Vehicle
+a forklift with a yellow frame,Vehicle
+a dune buggy with thick wheels,Vehicle
+a speedboat on water,Vehicle
+a skateboard with neon wheels,Vehicle
+a armored personnel carrier,Vehicle
+a mech suit with rocket thrusters,Vehicle
+a gondola on a canal,Vehicle
+a double-decker bus,Vehicle
+a mountain bike with suspension,Vehicle
+a snowmobile with skis,Vehicle
+a tractor with large back wheels,Vehicle
+a jeep with a mounted gun,Vehicle
+a pirate ship with cannons,Vehicle
+a cargo plane with propellers,Vehicle
+a submarine drone,Vehicle
+a hover car from the future,Vehicle
+a monster truck with flames,Vehicle
+a catamaran sailing boat,Vehicle
+a steam-powered airship,Vehicle
+a sci-fi land rover,Vehicle
+a unicycle with a large wheel,Vehicle
+a wooden raft with a sail,Vehicle
+a kayak with paddles,Vehicle
+a lunar rover with solar panels,Vehicle
+an ice cream van,Vehicle
+a tram car on rails,Vehicle
+a war chariot pulled by horses,Vehicle
+a gyrocopter with two blades,Vehicle
+a garbage truck with a compactor,Vehicle
+a cement mixer truck,Vehicle
+a futuristic monorail pod,Vehicle
+a beach buggy with a roll cage,Vehicle
+a wooden barrel used for storage,Prop
+a stone treasure chest with gold,Prop
+a metal lantern with a candle,Prop
+a bookshelf full of old books,Prop
+a wooden table with carved legs,Prop
+a stone fountain in a garden,Prop
+a log cabin campfire,Prop
+a torn flag on a wooden pole,Prop
+a clock tower with roman numerals,Prop
+a cracked bell hanging from a rope,Prop
+a magic potion bottle glowing green,Prop
+a small crystal ball on a stand,Prop
+a skull resting on a stone altar,Prop
+a set of rusty iron keys,Prop
+a locked jail cell door,Prop
+a wooden crate stamped with logos,Prop
+a stone pillar with carved symbols,Prop
+a hanging chandelier with candles,Prop
+a mirror with a golden frame,Prop
+a broken vase on a pedestal,Prop
+a pile of gold coins,Prop
+a large wooden door with iron hinges,Prop
+a brick fireplace with fire,Prop
+a well with a rope and bucket,Prop
+a signpost pointing in many directions,Prop
+a throne made of bones,Prop
+a cauldron bubbling with liquid,Prop
+a small wooden boat anchor,Prop
+a canvas tent with ropes,Prop
+a market stall with fabric roof,Prop
+a rope ladder hanging from a wall,Prop
+a torch mounted on a stone wall,Prop
+a gravestone with an inscription,Prop
+a treasure map spread on a table,Prop
+a sand bag pile,Prop
+a broken cart wheel in mud,Prop
+a decorated pottery jar,Prop
+a metal shield mounted on a wall,Prop
+a set of scales for weighing,Prop
+a wooden guillotine,Prop
+a catapult siege engine,Prop
+a prison ball and chain,Prop
+a medieval rack torture device,Prop
+a spinning wheel for thread,Prop
+a large anvil on a wooden stump,Prop
+a bellows for a forge fire,Prop
+a wooden pulley and rope system,Prop
+a flagpole with tattered banners,Prop
+a campfire surrounded by stones,Prop
+a scarecrow in a field,Prop
+a dragon perched on a mountain,Creature
+a werewolf howling at the moon,Creature
+a giant spider with eight legs,Creature
+a sea serpent rising from water,Creature
+a phoenix bird made of flames,Creature
+a zombie with torn clothing,Creature
+a humanoid robot with glowing eyes,Creature
+a fairy with delicate wings,Creature
+a minotaur with a battle axe,Creature
+a ghost floating through walls,Creature
+a giant crab with armored claws,Creature
+a mermaid with a shimmering tail,Creature
+a cyclops with one giant eye,Creature
+a vampire bat with sharp fangs,Creature
+a goblin with a hooked nose,Creature
+a skeleton warrior with a sword,Creature
+a giant scorpion in the desert,Creature
+a troll under a stone bridge,Creature
+a chimera with lion eagle and snake,Creature
+a gargoyle on a castle wall,Creature
+a giant slime blob,Creature
+a demon with horns and wings,Creature
+a forest elf with a bow,Creature
+a dwarf with a mining helmet,Creature
+a half-human half-fish creature,Creature
+a giant beetle with metallic shell,Creature
+a lava golem made of molten rock,Creature
+a frost giant from the mountains,Creature
+a shape-shifting slime monster,Creature
+a griffon with eagle wings and lion body,Creature
+a banshee wailing in the night,Creature
+a tentacled sea monster,Creature
+a stone golem walking slowly,Creature
+a kitsune fox with nine tails,Creature
+an undead horse skeleton,Creature
+a fungal zombie covered in spores,Creature
+a water elemental made of waves,Creature
+a shadow demon made of darkness,Creature
+a giant bee with a stinger,Creature
+a centaur with a bow and arrow,Creature
+a swamp creature with glowing eyes,Creature
+a cave troll with mossy skin,Creature
+a lightning bird that crackles with sparks,Creature
+a lizard person in tribal armor,Creature
+a wereboar with tusks and claws,Creature
+a siren perched on a cliff,Creature
+a sand worm burrowing underground,Creature
+a plague doctor masked figure,Creature
+a cosmic horror with many eyes,Creature
+a puppet animated by dark magic,Creature
+a sharp battle axe with a wooden handle,Weapon
+a glowing energy sword,Weapon
+a compact machine pistol,Weapon
+a primitive stone hand axe,Weapon
+a collapsible baton,Weapon
+a shuriken throwing star,Weapon
+a serrated combat knife,Weapon
+a compound bow with a scope,Weapon
+a ballista crossbow,Weapon
+a heavy warhammer,Weapon
+an ornate ceremonial sword,Weapon
+a hollow blowpipe,Weapon
+a twin-blade weapon,Weapon
+a sci-fi pulse rifle,Weapon
+a grappling hook launcher,Weapon
+a fire bomb flask,Weapon
+a nerve agent canister,Weapon
+a boomerang shaped like a bird,Weapon
+a whip with a thorned tip,Weapon
+a tri-blade throwing weapon,Weapon
+a jet-powered motorcycle,Vehicle
+a tank with spider legs,Vehicle
+an amphibious assault vehicle,Vehicle
+a solar-powered glider,Vehicle
+a dog sled with six huskies,Vehicle
+a roman war galley,Vehicle
+a hovercraft on water,Vehicle
+a biplane with double wings,Vehicle
+a steam-powered tricycle,Vehicle
+a cargo submarine,Vehicle
+a gondola attached to a zeppelin,Vehicle
+a medieval battering ram on wheels,Vehicle
+a flying carpet,Vehicle
+a magnetic levitation train,Vehicle
+a classic muscle car with spoiler,Vehicle
+a sail-powered sand skimmer,Vehicle
+a mechanical horse,Vehicle
+a small rowboat with electric motor,Vehicle
+a bamboo raft,Vehicle
+a futuristic battle mech,Vehicle
+a broken wooden chair,Prop
+a rusty iron cage,Prop
+a pile of stacked cannonballs,Prop
+a hanging plant in a ceramic pot,Prop
+a cracked clay water jug,Prop
+a wooden ladder against a wall,Prop
+a stack of hay bales,Prop
+a metal lockbox with a keyhole,Prop
+an ancient stone tablet with carvings,Prop
+a fallen tree trunk as a bridge,Prop
+a bundle of arrows in a quiver,Prop
+a wooden barrel half-full of water,Prop
+a scroll tied with a ribbon,Prop
+a magnifying glass with brass frame,Prop
+a set of alchemy vials on a rack,Prop
+a dreamcatcher hanging in doorway,Prop
+an hourglass with golden sand,Prop
+a ship wheel mounted on a post,Prop
+a broken catapult arm,Prop
+a stack of stone bricks,Prop
+a fire elemental with swirling flames,Creature
+a tree-like wood spirit,Creature
+a ghostly apparition in white robes,Creature
+a half-spider half-human creature,Creature
+a mutant wolf with three eyes,Creature
+a mechanical spider robot,Creature
+a mole man with shovel hands,Creature
+a seaweed wrapped undead pirate,Creature
+a crystal golem glowing cyan,Creature
+a horned serpent with wings,Creature
+a sharp longsword with silver blade,Weapon
+a war lance with a pennant,Weapon
+a boar spear with crossguard,Weapon
+a fan blade throwing weapon,Weapon
+an ice spike conjured by magic,Weapon
+a blunderbuss pistol,Weapon
+a repeater crossbow,Weapon
+a ritual obsidian dagger,Weapon
+a harpoon gun for whaling,Weapon
+a fire lance primitive gun,Weapon
+a convertible sports car,Vehicle
+a spacecraft re-entry capsule,Vehicle
+a sailing catamaran,Vehicle
+a war elephant with a howdah,Vehicle
+an old steam tractor,Vehicle
+a gravity bike hovering above ground,Vehicle
+a nuclear powered submarine,Vehicle
+a four-wheeled ATV quad bike,Vehicle
+an armored horse-drawn siege tower,Vehicle
+a small prop airplane,Vehicle
+a stone well bucket and rope,Prop
+a woven basket with a lid,Prop
+a painted ceramic bowl,Prop
+a blacksmith's tongs,Prop
+a rope coiled on the floor,Prop
+a pirate treasure map in a bottle,Prop
+a large bronze bell,Prop
+a wooden chest without a lock,Prop
+a ship's telescope,Prop
+a compass on a leather strap,Prop
+a dire wolf with pack markings,Creature
+a jellyfish the size of a house,Creature
+a roc bird enormous and ancient,Creature
+a blood elf archer,Creature
+an insectoid alien warrior,Creature
+a deep sea angler creature with lure,Creature
+a spectral knight in glowing armor,Creature
+a flesh golem made of stitched parts,Creature
+a winged serpent from mythology,Creature
+a four-armed giant demon,Creature
+a dark elf assassin in shadow armor,Creature
+a giant praying mantis,Creature
+a swamp hag with green skin,Creature
+a humanoid plant creature,Creature
+a lightning hawk made of electricity,Creature
+a giant armadillo with armored plates,Creature
+a werewolf in partial transformation,Creature
+a dragon wyrmling hatching from egg,Creature
+a stone titan buried in the earth,Creature
+a mushroom headed forest sprite,Creature
+a plasma shotgun,Weapon
+a void bow that fires dark arrows,Weapon
+a graviton lance,Weapon
+an acid thrower backpack weapon,Weapon
+a bone scythe,Weapon
+a sonic disruptor pistol,Weapon
+a blade gauntlet on a fist,Weapon
+a nano-wire whip,Weapon
+a magnetic rail pistol,Weapon
+a cryo grenade launcher,Weapon
+a stealth drone vehicle,Vehicle
+a whale-shaped submarine,Vehicle
+a manta ray shaped aircraft,Vehicle
+a rickshaw pulled by a robot,Vehicle
+a glider with no engine,Vehicle
+a jet ski on ocean waves,Vehicle
+a futuristic garbage collection pod,Vehicle
+a tuk-tuk with a mounted turret,Vehicle
+a dog-sled on ice,Vehicle
+a vintage biplane with two seats,Vehicle
+a wine rack full of bottles,Prop
+a decorated tapestry on a wall,Prop
+a rustic wooden bench,Prop
+a stone altar with offerings,Prop
+a large iron padlock,Prop
+a hanging cage with a prisoner,Prop
+a decorated ceramic tile floor piece,Prop
+a candlestick with melted wax,Prop
+a bookcase with hidden door,Prop
+a pile of gold ingots,Prop
+a chimera wolf with snake tail,Creature
+a cyber-wolf with mechanical legs,Creature
+a blood knight with red armor,Creature
+a harpy with eagle wings,Creature
+a brain creature with tentacles,Creature
+a mimic creature disguised as a chest,Creature
+a giant toad with poison sacs,Creature
+a bone dragon skeleton,Creature
+a patchwork robot creature,Creature
+a star-being made of cosmic dust,Creature
+a warhorse in battle armor,Vehicle
+a battle barge with battering ram,Vehicle
+a steam-powered walker mech,Vehicle
+a dragon saddle mount,Vehicle
+a massive war elephant,Vehicle
+a fire dart gun,Weapon
+a wind blade throwing weapon,Weapon
+a sickle with a chain attached,Weapon
+a knuckle duster with spikes,Weapon
+a twin crossbow pistol,Weapon
+a rusted portcullis gate,Prop
+a mossy stone staircase,Prop
+a wooden drawbridge lowered over moat,Prop
+a torch bracket on a dungeon wall,Prop
+a pile of bones on the floor,Prop
+a vine-covered ancient ruin wall,Prop
+a carved totem pole,Prop
+a market merchant's weighing scale,Prop
+a spinning top toy,Prop
+a crude oil lamp burning orange,Prop
+a cursed specter in tattered shroud,Creature
+a giant caterpillar in silk cocoon,Creature
+a thunder lizard prehistoric creature,Creature
+a cave bat colony hanging upside down,Creature
+a sand golem made of desert dust,Creature
+a two-headed ogre,Creature
+a scorpion man hybrid,Creature
+a river serpent with whiskers,Creature
+a plague rat enlarged by magic,Creature
+a djinn emerging from a lamp,Creature
+a silver arrow enchanted,Weapon
+a thunder hammer glowing with lightning,Weapon
+a siege ballista bolt,Weapon
+a dragon scale shield,Weapon
+a shadow blade made of darkness,Weapon
+a poison dart frog gun,Weapon
+a cursed chain flail,Weapon
+a runic greatsword,Weapon
+a spectral bow that fires ghost arrows,Weapon
+a mirror shield that reflects spells,Weapon
+a gondola boat in fog,Vehicle
+a wind-powered land yacht,Vehicle
+a pack mule with saddlebags,Vehicle
+a mechanical elephant with steam,Vehicle
+a whale oil submarine lantern boat,Vehicle
+a hanging lantern on an iron hook,Prop
+a cracked wooden shield on a wall,Prop
+a shattered glass window frame,Prop
+a pile of ash and ember,Prop
+a prison door with bars,Prop
+a bridge stone arch over a river,Prop
+a well rope frayed at the end,Prop
+a crumbling stone arch ruin,Prop
+a simple wooden cross marker,Prop
+a clay pot with a painted sun,Prop
+a naga snake deity with four arms,Creature
+a toad demon with a crown,Creature
+a titan crab walking on seafloor,Creature
+a bat-winged lich hovering,Creature
+a werebear in half-transformation,Creature
+a coral elemental from the sea,Creature
+a vine monster engulfing a tree,Creature
+a spectral wolf howling in moonlight,Creature
+a giant moth with luminous wings,Creature
+a sea turtle the size of an island,Creature
